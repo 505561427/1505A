@@ -1,0 +1,14 @@
+{
+    "name": "505561427/class",
+    "description": "This is a test.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "505561427",
+            "email": "baoyuyu7474741@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
