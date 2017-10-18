@@ -1,7 +1,6 @@
 {
-    "name": "505561427/class",
-    "description": "This is a test.",
-    "type": "library",
+    "name": "baoyuyu/xm",
+    "description": "This is my composer",
     "license": "MIT",
     "authors": [
         {
@@ -10,5 +9,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
 }
